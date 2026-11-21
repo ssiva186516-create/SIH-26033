@@ -35,9 +35,7 @@ It combines QR traceability, automated payments, village-level collection, and a
 ## Technical Approach
 Payments & Logistics: Razorpay Route handles instant, automated multi-party UPI split payouts, while the Google Maps Distance Matrix API plans single-trip village pickup routes to residential drop-off hubs.
 
-
-<img width="720" height="1608" alt="WhatsApp Image 2026-11-21 at 21 16 50" src="https://github.com/user-attachments/assets/402d97cf-efc5-4dee-88f3-7ab10ff1f261" />
-
+<img width="720" height="1063" alt="WhatsApp Image 2026-11-21 at 21 43 49" src="https://github.com/user-attachments/assets/75d7f77f-8c96-4422-8dfa-712e3aeda93b" />
 
 ## Feasibility and Viability
 * Technical Feasibility: The platform relies on proven, lightweight cloud APIs, standard Android smartphones, and India's existing UPI infrastructure—requiring zero expensive IoT sensors or proprietary hardware at the farm level.
